@@ -1,0 +1,20 @@
+{
+    "id": "53bdb737-afe0-4156-aa38-94b2c2791dae",
+    "title": "transfer",
+    "journalEntryNumber": "V192",
+    "date": "2023-11-28",
+    "items": [
+        {
+            "id": 1,
+            "debit": 90,
+            "credit": 0,
+            "account": 1930
+        },
+        {
+            "id": 2,
+            "debit": 0,
+            "credit": 90,
+            "account": 1931
+        }
+    ]
+}

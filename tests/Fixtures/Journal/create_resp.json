@@ -1,0 +1,26 @@
+{
+    "id": "6a157985-0ebc-4664-ad65-e7795afee948",
+    "title": "my entry",
+    "journalEntryNumber": "V788",
+    "date": "2024-04-03",
+    "items": [
+        {
+            "id": 1,
+            "debit": 838,
+            "credit": 0,
+            "account": 1930
+        },
+        {
+            "id": 2,
+            "debit": 0,
+            "credit": 8,
+            "account": 1690
+        },
+        {
+            "id": 3,
+            "debit": 0,
+            "credit": 830,
+            "account": 1730
+        }
+    ]
+}

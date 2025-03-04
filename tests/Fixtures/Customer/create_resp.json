@@ -1,0 +1,31 @@
+{
+    "id": "a4ece1cf-5d86-4104-8741-1be1e65db753",
+    "name": "customer 1",
+    "type": "company",
+    "vatNumber": "SE1234567890",
+    "orgNumber": "123456-7890",
+    "contactsDetails": [
+        {
+            "id": "240a4af0-edfd-47b1-b4ab-f30450eaac19",
+            "name": "John Doe",
+            "email": "john@email.com",
+            "phone": "0927-5631505",
+            "isDefault": true
+        },
+        {
+            "id": "2bfaa3ff-6bd4-4720-a1e7-8e2ec5c35ec0",
+            "name": "Jane Doe",
+            "email": "jane@email.com",
+            "phone": "0927-5631510",
+            "isDefault": false
+        }
+    ],
+    "address": {
+        "line1": "Älvsborgsvägen 10",
+        "line2": null,
+        "city": "Göteborg",
+        "postalCode": "123 45",
+        "country": "SE"
+    },
+    "language": "sv"
+}

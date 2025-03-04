@@ -1,0 +1,24 @@
+{
+    "id": "55c899c5-82b2-47fa-9c51-e35fc9b26443",
+    "name": "customer 1",
+    "type": "company",
+    "vatNumber": "SE1234567890",
+    "orgNumber": "123456-7890",
+    "contactsDetails": [
+        {
+            "id": "240a4af0-edfd-47b1-b4ab-f30450eaac19",
+            "name": "John Doe",
+            "email": "john@email.com",
+            "phone": "0927-5631505",
+            "isDefault": true
+        }
+    ],
+    "address": {
+        "line1": "Älvsborgsvägen 10",
+        "line2": null,
+        "city": "Göteborg",
+        "postalCode": "123 45",
+        "country": "SE"
+    },
+    "language": "sv"
+}

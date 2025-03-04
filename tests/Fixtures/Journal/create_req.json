@@ -1,0 +1,18 @@
+{
+    "title": "my entry",
+    "date": "2024-04-03",
+    "items": [
+        {
+            "debit": 838,
+            "account": 1930
+        },
+        {
+            "credit": 8,
+            "account": 1690
+        },
+        {
+            "credit": 830,
+            "account": 1730
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "totalItems": 1,
+    "totalPages": 1,
+    "currentPage": 1,
+    "items": [
+        {
+            "id": "a419cf69-db6f-4de9-992c-b1a60942a443",
+            "title": "invoice 1234",
+            "journalEntryNumber": "V342",
+            "date": "2024-10-10",
+            "items": [
+                {
+                    "id": 1,
+                    "debit": 200,
+                    "credit": 0,
+                    "account": 1930
+                },
+                {
+                    "id": 2,
+                    "debit": 0,
+                    "credit": 40,
+                    "account": 3011
+                },
+                {
+                    "id": 3,
+                    "debit": 0,
+                    "credit": 160,
+                    "account": 2611
+                }
+            ]
+        }
+    ]
+}

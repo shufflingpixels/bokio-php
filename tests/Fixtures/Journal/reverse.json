@@ -1,0 +1,27 @@
+{
+    "id": "111f4ff8-7caa-45dc-846a-69b0687d4f9f",
+    "title": "reverse my entry",
+    "journalEntryNumber": "V789",
+    "date": "2024-04-05",
+    "items": [
+        {
+            "id": 1,
+            "debit": 0,
+            "credit": 838,
+            "account": 1930
+        },
+        {
+            "id": 2,
+            "debit": 8,
+            "credit": 0,
+            "account": 1690
+        },
+        {
+            "id": 3,
+            "debit": 830,
+            "credit": 0,
+            "account": 1730
+        }
+    ],
+    "reversingjournalEntryId": "6a157985-0ebc-4664-ad65-e7795afee948"
+}
