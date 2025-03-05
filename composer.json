@@ -1,8 +1,8 @@
 {
     "name": "shufflingpixels/bokio-php",
-    "description": "Cool library",
+    "description": "PHP Wrapper for the experimental Bokio API",
     "type": "library",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "minimum-stability": "beta",
     "authors": [
         {
