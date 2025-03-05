@@ -1,6 +1,6 @@
 # Bookio API for PHP
 
-PHP Wrapper for the experimental [Bookio API](https://docs.bokio.se/reference/overview)
+PHP Wrapper for the experimental [Bokio API](https://docs.bokio.se/reference/overview)
 
 ## Install
 
