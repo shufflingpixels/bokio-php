@@ -66,30 +66,30 @@ try {
 ## Implemented
 
 - [x] Journal Entries
- - [x] [Create](https://docs.bokio.se/reference/post-journalentry)
- - [x] [List](https://docs.bokio.se/reference/get-journalentry)
- - [x] [Get](https://docs.bokio.se/reference/get-journalentries-journalid)
- - [x] [Reverse](https://docs.bokio.se/reference/reverse-journalentry)
+    - [x] [Create](https://docs.bokio.se/reference/post-journalentry)
+    - [x] [List](https://docs.bokio.se/reference/get-journalentry)
+    - [x] [Get](https://docs.bokio.se/reference/get-journalentries-journalid)
+    - [x] [Reverse](https://docs.bokio.se/reference/reverse-journalentry)
 
 - [x] Customers
- - [x] [Create](https://docs.bokio.se/reference/post-customer)
- - [x] [List](https://docs.bokio.se/reference/get-customer)
- - [x] [Get](https://docs.bokio.se/reference/get-customers-customerid)
- - [x] [Update](https://docs.bokio.se/reference/put-customer)
- - [x] [Delete](https://docs.bokio.se/reference/delete-customer)
+    - [x] [Create](https://docs.bokio.se/reference/post-customer)
+    - [x] [List](https://docs.bokio.se/reference/get-customer)
+    - [x] [Get](https://docs.bokio.se/reference/get-customers-customerid)
+    - [x] [Update](https://docs.bokio.se/reference/put-customer)
+    - [x] [Delete](https://docs.bokio.se/reference/delete-customer)
 
 - [ ] Upload
- - [ ] [Add](https://docs.bokio.se/reference/add-upload) 
- - [ ] [List](https://docs.bokio.se/reference/get-uploads) 
- - [ ] [Get](https://docs.bokio.se/reference/get-upload) 
- - [ ] [Download](https://docs.bokio.se/reference/download-upload) 
+    - [ ] [Add](https://docs.bokio.se/reference/add-upload) 
+    - [ ] [List](https://docs.bokio.se/reference/get-uploads) 
+    - [ ] [Get](https://docs.bokio.se/reference/get-upload) 
+    - [ ] [Download](https://docs.bokio.se/reference/download-upload) 
 
 - [ ] Invoice
- - [ ] [Create](https://docs.bokio.se/reference/post-invoice)
- - [ ] [List](https://docs.bokio.se/reference/get-invoice)
- - [ ] [Get](https://docs.bokio.se/reference/get-invoice)
- - [ ] [Update](https://docs.bokio.se/reference/put-invoice)
- - [ ] [Add line](https://docs.bokio.se/reference/post-invoice-lineitem)
+    - [ ] [Create](https://docs.bokio.se/reference/post-invoice)
+    - [ ] [List](https://docs.bokio.se/reference/get-invoice)
+    - [ ] [Get](https://docs.bokio.se/reference/get-invoice)
+    - [ ] [Update](https://docs.bokio.se/reference/put-invoice)
+    - [ ] [Add line](https://docs.bokio.se/reference/post-invoice-lineitem)
 
 ## Author
 
