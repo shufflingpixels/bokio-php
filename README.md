@@ -50,7 +50,7 @@ try {
             'postalCode' => '123 45',
             'country' => 'SE',
         ],
-        'language' => LanguageEnum::SV->value,
+        'language' => LanguageEnum::SV,
     ]);
 
     $response = $api->customer()->create($customer);
